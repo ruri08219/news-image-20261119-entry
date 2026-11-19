@@ -19,6 +19,10 @@ image can never pass as the entry.
 
 The program is deterministic: it reads no clock, no network and no
 randomness, so two runs produce identical bytes.
+
+Provenance: entry.jpg was drawn by draw.py (PIL, crisp real text)
+over a four-panel AI-generated illustration; the front page was
+researched from 19 November 2026 news wires before drawing.
 """
 
 import hashlib
